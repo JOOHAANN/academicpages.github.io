@@ -13,7 +13,7 @@ Education
 ======
 * Exchange.S in Enschede, University of Twente, 2023-2024 (expected)
 * M.S. in Rome, Sapienza University of Rome, 2021-2024 (expected)
-* B.S. in Xi'An, Chang'an University, 2016-2017
+* B.S. in Xi'An, Chang'an University, 2016-2021
 
 Work experience
 ======
