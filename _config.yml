@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Youhan Li"    
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "biography of Youhan Li"    
+  location         : "Enschede"  
+  employer         : "Sapienza University of Rome/University of Twente"        
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "li.1997715@studenti.uniroma1.it" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
