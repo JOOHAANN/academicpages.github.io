@@ -9,5 +9,5 @@ Description
 ======
 * Develop a single muscle MTU to represent the all the muscles working on the L5S1 joint
 * Using predictive model to simulate the future activation of the model
-* Develop a NMPC to constrain the muscle peak force based on exoskeleton ‘Quasimodo’
+* Develop a NMPC to constrain the muscle peak force based on exoskeleton 'Quasimodo'
 
