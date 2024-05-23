@@ -17,29 +17,37 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Autumn 2020: Visiting Engineer
+  * Xi 'an Transport Hydraulic Engineering Company
+  * Duties includes: Visting and learning the production of hydraulic pump
+  * Supervisor: Tiezhu Zhao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language skills
+  * English B2
+  * Chinese native
+  * Cantonese 
+* Programming skills
+  * C++
+  * C
+  * assembly language
+* Simulation skills
+  * Matlab
+  * Wolfram Mathmatica
+  * 
+* Embedded skills 
+  * Arduino
+  * keil 5
+  * PLC
+  * STM32
+  * ROS2 in resberry pi
+* Modeling skills
+  * Solidworks
+  * Catia
+  * Auto CAD
+  * hypermesh
 
 Publications
 ======
@@ -47,7 +55,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Course
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -59,6 +67,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+leadership
 ======
-* Currently signed in to 43 different slack teams
+* Chang’an University CHD Robot Team - Deputy Team Leader - 09/2016-10/202
