@@ -209,7 +209,7 @@ collections:
   project:
     output: true
     permalink: /:collection/:path/
-  talks:
+  courses:
     output: true
     permalink: /:collection/:path/
 
@@ -266,7 +266,7 @@ defaults:
       path: ""
       type: courses
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
