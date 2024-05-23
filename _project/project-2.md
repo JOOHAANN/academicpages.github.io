@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of project item number 1<br/><img src='/images/500x300.png'>"
+title: "Applying the color detection algorithm on the Relbot robot based on the ROS2 framework using C++"
+excerpt: "C++, ROS2, rasberry Pi, relbot<br/><img src='/images/500x300.png'>"
 collection: project
 ---
 
